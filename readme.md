@@ -33,3 +33,7 @@ python main.py
 ## 许可证
 
 此项目使用 MIT 许可证。详情请参阅 LICENSE 文件。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=CodeSnailss/test_excel&type=Date)](https://star-history.com/#CodeSnailss/test_excel&Date)
